@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! My name is Thamizh Gnanam K S, a Java Full Stack developer from Bengaluru.</h2>
 
 
-###
+### 
 
 <img align="right" height="150" src="https://media.tenor.com/TbZ7rQWXPTkAAAAM/joey-how-you-doing.gif"  />
 
-###
+### Skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
