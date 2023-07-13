@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Thamizh Gnanam K S, a Java Full Stack developer from Bengaluru.</h2>
+<h2 align="left">Howdy! 👋 I'm Thamizh Gnanam K S, a Java Full Stack developer.</h2>  
+
+###
+
+<h5>Mornings: "How you doin'?" | Evenings: "Why So Serious?".</h5> 
+
+<h6>Forget switching gears, I seamlessly transition from sitcom and anime fanatic to nocturnal bug slayer. </h6> Unleashing my coding prowess as a bug-fighting vigilante. Conquering coding challenges by day, fighting bugs by night! 🦇💻
+
+Oh, and did I mention? At night, I also develop websites, but my design skills (Figma & Canva) are a work in progress. Learning, one pixel at a time!
 
 ###
 
