@@ -65,6 +65,8 @@ Oh, and did I mention? At night, I also develop websites, but my design skills (
   <a href="https://twitter.com/tg_262001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  
+ [![threads](https://img.shields.io/badge/threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@_tg.26_)
 </div>
 
 ### Streaks❤️‍🔥
